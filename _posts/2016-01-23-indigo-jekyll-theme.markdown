@@ -10,7 +10,7 @@ hidden: true
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: projects
 author: johndoe
-externalLink: true
+externalLink: false
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
