@@ -11,8 +11,8 @@ tag:
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
-hidden: true
-externalLink: false
+hidden: false
+externalLink: true
 ---
 
 ## Summary:
