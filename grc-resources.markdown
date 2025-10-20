@@ -18,6 +18,10 @@ date: 2025-10-20 22:27:00 Z
 1. [The Hacker News](https://thehackernews.com/)
 2. [DarkReading](https://www.darkreading.com/)
 3. [CyberWire Daily Podcast](https://thecyberwire.com/podcasts/daily-podcast)
+4. [CyberScoop](https://cyberscoop.com/)
+5. [KrebsonSecurity](https://krebsonsecurity.com/)
+6. [Hacking Humans Podcast](https://thecyberwire.com/podcasts/hacking-humans)
+7. [Darknet Diaries](https://darknetdiaries.com/)
 
 ###The Standards
 1. [ISO Standards](https://www.iso.org/home.html), especially [ISO/IEC 38500:2024](https://www.iso.org/standard/81684.html) the Governance of IT for the Organization
