@@ -15,6 +15,9 @@ date: 2025-10-20 22:27:00 Z
 6. [CCSP](https://www.isc2.org/certifications/ccsp): According to their website, becoming a certified cloud security professional "is a proven way to build your career and better secure critical assets in the cloud. The CCSP shows you have the advanced technical skills and knowledge to design, manage and secure data, applications and infrastructure in the cloud using best practices, policies and procedures established by our certified members and cybersecurity experts around the globe." They have study materials, a course for $795 ($895 for nonmembers), a Q&A database subscription for $299 ($399 for nonmembers), a digital review manual for $109 ($139 for nonmembers),  and a print review manual for $109 ($139 for nonmembers). Exam is $599 ($798 for nonmembers).
 
 ###GRC News
+1. [The Hacker News](https://thehackernews.com/)
+2. [DarkReading](https://www.darkreading.com/)
+3. [CyberWire Daily Podcast](https://thecyberwire.com/podcasts/daily-podcast)
 
 ###The Standards
 1. [ISO Standards](https://www.iso.org/home.html), especially [ISO/IEC 38500:2024](https://www.iso.org/standard/81684.html) the Governance of IT for the Organization
