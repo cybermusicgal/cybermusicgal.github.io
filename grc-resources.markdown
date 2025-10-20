@@ -3,9 +3,6 @@ title: GRC Resources
 date: 2025-10-20 22:27:00 Z
 ---
 
-
-###Courses
-
 ###Certifications
 1. [CGRC](https://www.isc2.org/certifications/cgrc): According to their website, "the CGRC is a proven way to demonstrate your knowledge and skills to integrate governance, performance management, risk management and regulatory compliance within your organization." Certification is $599 for the exam, and for $798, they will throw in "peace of mind protection" for a discounted second try at the exam if you fail the first time.
 4. [CISSP](https://www.isc2.org/certifications/cissp): According to their website, "the world's premier cybersecurity certification. Accelerate your cybersecurity career with the CISSP certification. Earning the CISSP proves you have what it takes to effectively design, implement and manage a best-in-class cybersecurity program." From $476 to $2952, you can take an online self-paced course, an instructor-led course, or classroom training. The exam costs $749, and for $998, they will throw in "peace of mind protection" for a discounted second try at the exam if you fail the first time.
@@ -26,5 +23,5 @@ date: 2025-10-20 22:27:00 Z
 
 ###The Standards
 1. [ISO Standards](https://www.iso.org/home.html), especially [ISO/IEC 38500:2024](https://www.iso.org/standard/81684.html) the Governance of IT for the Organization
-2. [NIST](https://www.nist.gov/): National Institute of Standards and Technology, especially [Secure Software Development Framework](https://csrc.nist.gov/Projects/ssdf)
+2. [NIST](https://www.nist.gov/): National Institute of Standards and Technology, especially [Secure Software Development Framework](https://csrc.nist.gov/Projects/ssdf) and the [Risk Management Framework](https://csrc.nist.gov/projects/risk-management/about-rmf).
 3. [COBIT](https://www.isaca.org/resources/cobit): Control Objectives for Information and Related Technologies
