@@ -16,4 +16,6 @@ date: 2025-10-20 22:27:00 Z
 
 ###GRC News
 
-###The Manuals
+###The Standards
+1. [ISO Standards](https://www.iso.org/home.html), especially [ISO/IEC 38500:2024](https://www.iso.org/standard/81684.html) the Governance of IT for the Organization
+2. 
