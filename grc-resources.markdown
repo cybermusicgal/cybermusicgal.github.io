@@ -1,7 +1,6 @@
 ---
 title: GRC Resources
 date: 2025-10-20 22:27:00 Z
-published: false
 ---
 
 ###Certifications
