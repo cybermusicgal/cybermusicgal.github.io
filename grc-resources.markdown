@@ -27,4 +27,4 @@ date: 2025-10-20 22:27:00 Z
 ###The Standards
 1. [ISO Standards](https://www.iso.org/home.html), especially [ISO/IEC 38500:2024](https://www.iso.org/standard/81684.html) the Governance of IT for the Organization
 2. [NIST](https://www.nist.gov/): National Institute of Standards and Technology, especially [Secure Software Development Framework](https://csrc.nist.gov/Projects/ssdf)
-3. 
+3. [COBIT](https://www.isaca.org/resources/cobit): Control Objectives for Information and Related Technologies
