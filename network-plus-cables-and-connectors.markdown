@@ -5,7 +5,7 @@ date: 2025-11-06 19:49:00 Z
 
 ## Welcome to Your Journey
 
-This series is different. Written by a teacher, for the way the brain learns. 
+This series is different. It's written by a teacher, using brain science to help you learn the material deeply in the way the brain learns. 
 
 Imagine trying to learn a language by starting with Shakespeare. Frustrating, right? 
 
