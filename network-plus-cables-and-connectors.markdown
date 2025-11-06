@@ -5,17 +5,17 @@ date: 2025-11-06 19:49:00 Z
 
 ## Welcome to Your Journey
 
-This series is different. It's written by a teacher, using brain science to help you learn the material deeply in the way the brain learns. 
+This series is different. It's written by a teacher, using brain science to help you learn the material deeply in the way the brain learns.
 
-Imagine trying to learn a language by starting with Shakespeare. Frustrating, right? 
+Imagine trying to learn a language by starting with Shakespeare. Frustrating, right?
 
-You'd want to begin with "Hello" and "Goodbye" before tackling sonnets. 
+You'd want to begin with "Hello" and "Goodbye" before tackling sonnets.
 
 Yet that's often how technical subjects are taught – starting in the middle, assuming knowledge you don't have, using jargon you haven't learned yet.
 
 This series is not a quick review. This is a deep dive so you really understand the information and it will stick forever.
 
-This series is a deep dive so you're prepared for a job and so overprepared for the Network+ exam that it will be a piece of cake! 
+You'll be prepared for a job and so overprepared for the Network\+ exam that it will be a piece of cake!
 
 ## What Makes This Series Different: The Learning Science
 
@@ -159,22 +159,6 @@ Now we go deep into copper technology – both twisted pair (Ethernet) and coaxi
 
 **Why It Matters:** Copper cabling connects 99% of user devices to networks. This is the cabling you'll work with most. Whether it's an office, home, or data center, understanding copper is essential.
 
-**The Progression:**
-
-* Article 6: Learn what categories mean
-
-* Article 7: Understand when shielding helps
-
-* Article 8: Discover why wire thickness matters
-
-* Article 9: Master distance rules
-
-* Article 10: Learn wiring standards
-
-* Article 11: Explore coaxial cable
-
-* Article 12: Put it all together with complete decision-making
-
 ---
 
 ### PHASE 3: FIBER OPTIC DEEP DIVE (Articles 13-18)
@@ -211,20 +195,6 @@ Fiber optics is different from copper – it uses light instead of electricity. 
 
 As networks get faster and connect across longer distances, fiber becomes essential knowledge.
 
-**The Progression:**
-
-* Article 13: Understand the fundamentals (how it works, why it's different)
-
-* Article 14: Master the core distinction (single-mode vs. multi-mode)
-
-* Article 15: Learn multi-mode grades (OM1-OM5)
-
-* Article 16: Understand single-mode (OS1/OS2)
-
-* Article 17: Know construction types (indoor vs. outdoor)
-
-* Article 18: Integrate everything into complete decisions
-
 ---
 
 ### PHASE 4: CONNECTORS & TERMINATION (Articles 19-24)
@@ -251,20 +221,6 @@ Cables don't work by themselves – they need connectors. This phase covers how 
 
 **Why It Matters:** The best cable with a bad connector doesn't work. Connectors are often the failure point in networks. Understanding proper termination and testing prevents problems before they start.
 
-**The Progression:**
-
-* Article 19: Understand what connectors do
-
-* Article 20: Master RJ-45 (twisted pair)
-
-* Article 21: Learn coaxial connectors
-
-* Article 22: Master fiber connectors
-
-* Article 23: Learn testing and troubleshooting
-
-* Article 24: Integrate connector knowledge
-
 ---
 
 ### PHASE 5: INTEGRATION & APPLICATION (Articles 25-30)
@@ -289,20 +245,6 @@ Now we apply everything you've learned to real-world situations. This is where t
 
 **Why It Matters:** Knowing facts is one thing. Applying them to design a real network, comply with building codes, install it properly, and troubleshoot problems is where professionals distinguish themselves. This phase makes you job-ready.
 
-**The Progression:**
-
-* Article 25: Design complete networks
-
-* Article 26: Master color coding systems
-
-* Article 27: Understand standards compliance
-
-* Article 28: Learn professional installation
-
-* Article 29: Master troubleshooting methodology
-
-* Article 30: Final exam preparation
-
 ---
 
 ## Complete Table of Contents
@@ -323,81 +265,81 @@ Now we apply everything you've learned to real-world situations. This is where t
 
 ### PHASE 2: COPPER CABLING DEEP DIVE
 
- 6. Twisted Pair Categories - The Performance Ladder
+1. Twisted Pair Categories - The Performance Ladder
 
- 7. Shielding Types - UTP, STP, and Everything In Between
+2. Shielding Types - UTP, STP, and Everything In Between
 
- 8. Wire Gauge and Conductor Types - The Hidden Performance Factor
+3. Wire Gauge and Conductor Types - The Hidden Performance Factor
 
- 9. The 100-Meter Rule and TIA-568 Standards
+4. The 100-Meter Rule and TIA-568 Standards
 
-10. T568A vs. T568B - Wiring Standards and Pin Assignments
+5. T568A vs. T568B - Wiring Standards and Pin Assignments
 
-11. Coaxial Cable Types - RG Designations Decoded
+6. Coaxial Cable Types - RG Designations Decoded
 
-12. Copper Cabling Summary and Decision Matrix
+7. Copper Cabling Summary and Decision Matrix
 
-    * *Copper Mastery Checkpoint: Phase 2 Complete*
+   * *Copper Mastery Checkpoint: Phase 2 Complete*
 
 ### PHASE 3: FIBER OPTIC DEEP DIVE
 
-13. Fiber Optics Fundamentals - How Light Replaces Electricity
+1. Fiber Optics Fundamentals - How Light Replaces Electricity
 
-14. Single-Mode vs. Multi-Mode - The Core Distinction
+2. Single-Mode vs. Multi-Mode - The Core Distinction
 
-15. OM Ratings - The Multi-Mode Performance Ladder
+3. OM Ratings - The Multi-Mode Performance Ladder
 
-16. Single-Mode Fiber - OS Ratings and Long-Distance Performance
+4. Single-Mode Fiber - OS Ratings and Long-Distance Performance
 
-17. Fiber Optic Cable Construction - Tight-Buffered vs. Loose-Tube
+5. Fiber Optic Cable Construction - Tight-Buffered vs. Loose-Tube
 
-18. Fiber Optic Summary and Decision Matrix
+6. Fiber Optic Summary and Decision Matrix
 
-    * *Fiber Optic Mastery Achieved: Phase 3 Complete*
+   * *Fiber Optic Mastery Achieved: Phase 3 Complete*
 
 ### PHASE 4: CONNECTORS & TERMINATION
 
-19. Introduction to Network Connectors - The Critical Interface
+1. Introduction to Network Connectors - The Critical Interface
 
-20. Twisted Pair Connectors - RJ-45 and Beyond
+2. Twisted Pair Connectors - RJ-45 and Beyond
 
-21. Coaxial Connectors - F, BNC, and Specialized Types
+3. Coaxial Connectors - F, BNC, and Specialized Types
 
-22. Fiber Optic Connectors - LC, SC, ST, and Modern Standards
+4. Fiber Optic Connectors - LC, SC, ST, and Modern Standards
 
-23. Connector Testing and Troubleshooting
+5. Connector Testing and Troubleshooting
 
-24. Connectors and Termination Summary
+6. Connectors and Termination Summary
 
-    * *Connection Mastery Complete: Phase 4 Achieved*
+   * *Connection Mastery Complete: Phase 4 Achieved*
 
 ### PHASE 5: INTEGRATION & APPLICATION
 
-25. Designing a Complete Network Cabling System
+1. Designing a Complete Network Cabling System
 
-26. Color Coding Deep Dive - Reliable Visual Identification
+2. Color Coding Deep Dive - Reliable Visual Identification
 
-27. Standards Compliance - TIA-568, ISO/IEC 11801, and NEC
+3. Standards Compliance - TIA-568, ISO/IEC 11801, and NEC
 
-28. Installation Best Practices and Professional Techniques
+4. Installation Best Practices and Professional Techniques
 
-29. Troubleshooting Network Cabling Problems
+5. Troubleshooting Network Cabling Problems
 
-30. Network\+ Exam Preparation - Cabling Mastery Review
+6. Network\+ Exam Preparation - Cabling Mastery Review
 
 ---
 
 ### What This Series Covers
 
 ✅ **Cable types:** Twisted pair, coaxial, fiber optic\
- ✅ **Categories and ratings:** CAT5e through CAT8, OM1-OM5, OS1/OS2\
- ✅ **Connectors:** RJ-45, F-connector, BNC, LC, SC, ST, MTP\
- ✅ **Standards:** TIA-568, NEC, ISO/IEC 11801\
- ✅ **Selection:** Choosing the right cable for any scenario\
- ✅ **Testing:** Verifying proper installation\
- ✅ **Troubleshooting:** Fixing problems systematically\
- ✅ **Design:** Creating complete cabling systems\
- ✅ **Network\+ exam:** All physical layer objectives
+✅ **Categories and ratings:** CAT5e through CAT8, OM1-OM5, OS1/OS2\
+✅ **Connectors:** RJ-45, F-connector, BNC, LC, SC, ST, MTP\
+✅ **Standards:** TIA-568, NEC, ISO/IEC 11801\
+✅ **Selection:** Choosing the right cable for any scenario\
+✅ **Testing:** Verifying proper installation\
+✅ **Troubleshooting:** Fixing problems systematically\
+✅ **Design:** Creating complete cabling systems\
+✅ **Network\+ exam:** All physical layer objectives
 
 ### "How fast can I complete this series?"
 
@@ -426,13 +368,13 @@ When you understand *why*, remembering the *what* becomes natural.
 After completing all 30 articles, you will:
 
 **Identify** any cable type by sight and specification\
- **Select** appropriate cabling for any scenario\
- **Understand** all connector types and their applications\
- **Apply** industry standards correctly\
- **Design** complete network cabling systems\
- **Troubleshoot** cabling problems systematically\
- **Pass** the Network\+ exam physical layer objectives\
- **Speak** confidently about network infrastructure
+**Select** appropriate cabling for any scenario\
+**Understand** all connector types and their applications\
+**Apply** industry standards correctly\
+**Design** complete network cabling systems\
+**Troubleshoot** cabling problems systematically\
+**Pass** the Network\+ exam physical layer objectives\
+**Speak** confidently about network infrastructure
 
 ### Skills You'll Have
 
